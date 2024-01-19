@@ -2,3 +2,4 @@ This a git test file written by whiteyhl.
 Grandpa Jhon lives in a small town.
 Christmas is near, and he is exited.
 His family, including children and grand children will visit him.
+To prepare, He cleans the house.
